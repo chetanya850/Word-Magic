@@ -81,7 +81,7 @@ function Form(props) {
 
         {/* Preview Code Here */}
         <h1 className="my-3" style={{ fontFamily: 'Roboto', }}>Text Preview</h1>
-        <p>{text.length > 0 ? text : <b>Enter Something to Preview it here.</b>}</p>
+        <p>{text.length > 0 ? text : "Enter Something to Preview it here."}</p>
       </div>
     </>
   );
