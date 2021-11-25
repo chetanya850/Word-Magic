@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Word-Magic/static/css/main.07687a07.chunk.css",
+    "main.js": "/Word-Magic/static/js/main.d0c073dc.chunk.js",
+    "main.js.map": "/Word-Magic/static/js/main.d0c073dc.chunk.js.map",
+    "runtime-main.js": "/Word-Magic/static/js/runtime-main.39bf4a4a.js",
+    "runtime-main.js.map": "/Word-Magic/static/js/runtime-main.39bf4a4a.js.map",
+    "static/js/2.9781cf0e.chunk.js": "/Word-Magic/static/js/2.9781cf0e.chunk.js",
+    "static/js/2.9781cf0e.chunk.js.map": "/Word-Magic/static/js/2.9781cf0e.chunk.js.map",
+    "index.html": "/Word-Magic/index.html",
+    "static/css/main.07687a07.chunk.css.map": "/Word-Magic/static/css/main.07687a07.chunk.css.map",
+    "static/js/2.9781cf0e.chunk.js.LICENSE.txt": "/Word-Magic/static/js/2.9781cf0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39bf4a4a.js",
+    "static/js/2.9781cf0e.chunk.js",
+    "static/css/main.07687a07.chunk.css",
+    "static/js/main.d0c073dc.chunk.js"
+  ]
+}
